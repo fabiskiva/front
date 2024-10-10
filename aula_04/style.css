@@ -1,0 +1,49 @@
+h2 {
+    padding-top: 20px; /*Espaçamento interno para todos os lados*/
+    padding-bottom: 35px; /*Espaçamento para Baixo*/
+    padding-left: 25px; /*Espaçamento para a esquerda */
+    text-align: center; /*Alinha o texto no centro*/
+}
+
+.azul{
+    background-color:#2e6ea6;
+border:5px solid #000;
+}
+
+.azul:hover{
+background-color: #668c3f;
+}
+
+.vermelho{
+    background-color:#a60d1a;
+    border:5px solid #000;
+}
+
+.marrom{
+    background-color:#a66f3f;
+    border:5px solid #000;
+}
+
+a{
+    background-color: #2e6ea6;
+color: #ffffff;
+ text-decoration: none; /*retira o sublinhado do link*/  
+padding:10px;
+border-radius:5px;
+margin-top: 50px;
+}
+
+A:hover {
+    background-color: #f27649;
+}
+
+button {
+  background-color: #A60D1a;
+  color:#ffffff;
+  padding:10px;
+  border-radius:5px;
+  border: none;
+}
+button:hover{
+background-color: #F26363;
+}
